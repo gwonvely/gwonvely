@@ -1,4 +1,3 @@
-🌱Newbie🌱
 
 <!--
 **gwonvely/gwonvely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">🌱Newbie🌱 </h2>
+<hr>
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
